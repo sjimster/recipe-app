@@ -1,0 +1,13 @@
+/* RGB */
+$secondary-color: rgba(184, 216, 216, 1);
+$primary-color: rgba(122, 158, 159, 1);
+$bg-color: rgba(252, 250, 249, 1);
+$bg-color-dark: rgba(79, 99, 103, 1);
+$cta-color: rgba(254, 95, 85, 1);
+
+$box-shadow: 0 2px 12px rgba($bg-color-dark,0.16);
+$border-radius: 8px;
+
+//fonts
+@import url('https://fonts.googleapis.com/css?family=Work+Sans:100,300,400,700');
+$primary-font: 'Work Sans', sans-serif;
