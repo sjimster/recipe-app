@@ -1,5 +1,4 @@
-# recipe-finder
-
+# recipe-app
 > A Vue.js project
 
 ## Build Setup
