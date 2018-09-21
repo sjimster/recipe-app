@@ -35,6 +35,11 @@ export default {
       return convertDate(date)
     }
   },
+  watch: {
+    '$store.state.recipes.recipes': function () {
+      this.recipes = this.$store.state.recipes.recipes
+    }
+  },
   mounted () {
     this.setRecipeData()
   }
