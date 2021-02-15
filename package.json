@@ -15,7 +15,7 @@
     "deploy": "npm run build push-dir --dir=dist --branch=gh-pages --cleanup"
   },
   "dependencies": {
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "dotenv": "^6.0.0",
     "node-sass": "^4.13.1",
     "push-dir": "^0.4.1",
